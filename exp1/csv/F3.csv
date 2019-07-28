@@ -1,0 +1,40 @@
+num of node,9,
+num of theta,4,
+F,0,1
+f1(.;theta 1),0.6,0.4
+f1(.;theta 2),0.3333,0.6666
+f1(.;theta 3),0.1666,0.8333
+f1(.;theta 4),0.25,0.75
+f2(.;theta 1),0.5,0.5
+f2(.;theta 2),0.5,0.5
+f2(.;theta 3),0.5,0.5
+f2(.;theta 4),0.5,0.5
+f3(.;theta 1),0.5,0.5
+f3(.;theta 2),0.5,0.5
+f3(.;theta 3),0.5,0.5
+f3(.;theta 4),0.5,0.5
+f4(.;theta 1),0.5,0.5
+f4(.;theta 2),0.5,0.5
+f4(.;theta 3),0.5,0.5
+f4(.;theta 4),0.5,0.5
+f5(.;theta 1),0.5,0.5
+f5(.;theta 2),0.5,0.5
+f5(.;theta 3),0.5,0.5
+f5(.;theta 4),0.5,0.5
+f6(.;theta 1),0.5,0.5
+f6(.;theta 2),0.5,0.5
+f6(.;theta 3),0.5,0.5
+f6(.;theta 4),0.5,0.5
+f7(.;theta 1),0.5,0.5
+f7(.;theta 2),0.5,0.5
+f7(.;theta 3),0.5,0.5
+f7(.;theta 4),0.5,0.5
+f8(.;theta 1),0.5,0.5
+f8(.;theta 2),0.5,0.5
+f8(.;theta 3),0.5,0.5
+f8(.;theta 4),0.5,0.5
+f9(.;theta 1),0.5,0.5
+f9(.;theta 2),0.5,0.5
+f9(.;theta 3),0.5,0.5
+f9(.;theta 4),0.5,0.5
+informed node is node 1,,

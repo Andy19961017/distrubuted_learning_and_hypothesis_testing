@@ -1,0 +1,8 @@
+num of node,2,
+num of theta,2,
+F,0,1
+f1(.;theta 1),0,0.2
+f1(.;theta 2),0,0.21
+f2(.;theta 1),0,0.6
+f2(.;theta 2),0,0.61
+no comment,,
